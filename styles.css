@@ -1,0 +1,24 @@
+h1{
+    color: #333;
+    font-size: 2em;
+    text-align: center;
+}
+
+p{
+    color: black;
+    font-weight: lighter;
+    text-align: justify;
+}
+
+.italic{
+    font-style: italic;
+    font-weight: bold;
+    color: #333;
+}
+
+h3{
+    color: blue;
+    font-size: 18px;
+    font-weight: bold;
+    
+}
